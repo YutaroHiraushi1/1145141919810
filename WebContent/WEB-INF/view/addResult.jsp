@@ -3,10 +3,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<meta charset="UTF-8">
+<title>登録完了</title>
 </head>
 <body>
-
+	<p>登録完了しました。<br>
+		<a href="/natukadai/Top">トップに戻る</a>
 </body>
 </html>
