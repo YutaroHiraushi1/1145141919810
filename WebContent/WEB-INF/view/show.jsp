@@ -12,7 +12,7 @@
 	<p>
 	下のほうに一覧が表示されています。<br>
 	受験内容登録</p>
-	<form action="/natukadai/Insert" method="post">
+	<form action="/Capacity11/Insert" method="post">
 				<table>
 					<tbody>
 						<tr>

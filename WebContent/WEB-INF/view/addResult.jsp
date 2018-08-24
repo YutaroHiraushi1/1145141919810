@@ -8,6 +8,6 @@
 </head>
 <body>
 	<p>登録完了しました。<br>
-		<a href="/natukadai/Top">トップに戻る</a>
+		<a href="/Capacity11/Top">トップに戻る</a>
 </body>
 </html>

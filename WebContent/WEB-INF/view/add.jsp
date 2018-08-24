@@ -8,7 +8,7 @@
 </head>
 <body>
 	<p>登録</p>
-	<form action="/natukadai/AddResult" method="post">
+	<form action="/Capacity11/AddResult" method="post">
 		学籍番号：<input type="text" name="num"><br>
 		名前：<input type="text" name="name	"><br>
 		パスワード：<input type="password" name="pass"><br>
